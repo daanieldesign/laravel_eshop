@@ -1,6 +1,6 @@
 <div class="py-16">
     <h2 class="text-4xl font-semibold text-center text-white-800">Kontaktní formulář</h2>
-    <form class="max-w-lg mx-auto mt-8 p-8 bg-white shadow-lg rounded-lg" action="https://formspree.io/f/xkgjgkge" method="POST">
+    <form class="max-w-lg mx-auto mt-8 p-8 bg-white shadow-lg rounded-lg" action="https://formspree.io/f/mwplpavd" method="POST">
         @csrf
         <div class="mb-6">
             <label for="name" class="block text-sm font-medium text-gray-700">Jméno</label>
